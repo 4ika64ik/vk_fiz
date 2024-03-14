@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edc42b19.css",
+    "main.js": "/static/js/main.cceb25b4.js",
+    "static/js/453.1f447b10.chunk.js": "/static/js/453.1f447b10.chunk.js",
+    "static/media/font-street.jpg": "/static/media/font-street.33aae3b01fd1635a7c20.jpg",
+    "static/media/kleaner.png": "/static/media/kleaner.3bdf597ee0d09d24442d.png",
+    "static/media/clin1.jpg": "/static/media/clin1.c3f851f33533b066c577.jpg",
+    "static/media/klining5.jpg": "/static/media/klining5.23e22473b6fcf9d59395.jpg",
+    "static/media/klining4.jpg": "/static/media/klining4.3485777934f83f9f2159.jpg",
+    "static/media/klining2.jpg": "/static/media/klining2.8d0909ec9ced1f16cebe.jpg",
+    "static/media/klining3.jpg": "/static/media/klining3.0a00e5b1c24b49aa72e0.jpg",
+    "static/media/klining1.jpg": "/static/media/klining1.e1bbfd1827cd5ef005df.jpg",
+    "index.html": "/index.html",
+    "main.edc42b19.css.map": "/static/css/main.edc42b19.css.map",
+    "main.cceb25b4.js.map": "/static/js/main.cceb25b4.js.map",
+    "453.1f447b10.chunk.js.map": "/static/js/453.1f447b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc42b19.css",
+    "static/js/main.cceb25b4.js"
+  ]
+}
